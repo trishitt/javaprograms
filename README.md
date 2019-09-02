@@ -11,5 +11,5 @@ Print remainder in java
 Rotate nos in array in java
 Selection sort in java
 swap nos without third variable in java
-Binary search in java
+Binary search in java.
 
